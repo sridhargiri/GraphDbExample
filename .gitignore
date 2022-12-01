@@ -176,8 +176,6 @@ DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
 
-bin/
-*.dll
 # Click-Once directory
 publish/
 

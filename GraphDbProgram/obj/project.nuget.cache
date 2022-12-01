@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+6fvMKRsfEYsv82YwES7eOt4Ky44Yo6QKmG4xBNbti1Lg+QPDN+eRVKVtJwq79HRQ9iIC8qFnacggpwCyL095g==",
+  "success": true,
+  "projectFilePath": "D:\\other\\GraphDbProgram\\GraphDbProgram\\GraphDbProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sridhar.Swaminathan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sridhar.Swaminathan\\.nuget\\packages\\neo4j.driver\\5.3.0\\neo4j.driver.5.3.0.nupkg.sha512",
+    "C:\\Users\\Sridhar.Swaminathan\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

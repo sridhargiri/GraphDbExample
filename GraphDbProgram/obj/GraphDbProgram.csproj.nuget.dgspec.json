@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\other\\GraphDbProgram\\GraphDbProgram\\GraphDbProgram.csproj": {}
+  },
+  "projects": {
+    "D:\\other\\GraphDbProgram\\GraphDbProgram\\GraphDbProgram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\other\\GraphDbProgram\\GraphDbProgram\\GraphDbProgram.csproj",
+        "projectName": "GraphDbProgram",
+        "projectPath": "D:\\other\\GraphDbProgram\\GraphDbProgram\\GraphDbProgram.csproj",
+        "packagesPath": "C:\\Users\\Sridhar.Swaminathan\\.nuget\\packages\\",
+        "outputPath": "D:\\other\\GraphDbProgram\\GraphDbProgram\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sridhar.Swaminathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ci.appveyor.com/nuget/skywire": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Neo4j.Driver": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
